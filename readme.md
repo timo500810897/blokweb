@@ -69,5 +69,5 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Runescape-splash-frame.PNG)
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Runescape-community-frame.PNG)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Runescape-splash-frame.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Runescape-community-frame.png)
