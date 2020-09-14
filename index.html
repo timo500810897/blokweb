@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="author" content="jouw naam" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" href="images/Twitch_Logo.png" type="image/x-icon" />
+    <link rel="icon" href="images/Twitch_Icon.png" type="image/x-icon" />
     <title>Frontend Design: Twitch</title>
 
     <link href="styles/style.css" rel="stylesheet" />
@@ -17,11 +17,23 @@
           <li>
             <a href="index.html"><img src="images/Twitch_Logo.png" /></a>
           </li>
-          <li><a href="#">Volgend</a></li>
-          <li><a href="#">Bladeren</a></li>
-          <li><div></div></li>
-          <li><a href="#">Esports</a></li>
-          <li><a href="#">Muziek</a></li>
+          <li><a href="#">
+            <img class="nav_icons" src="images/Volgend.svg"/>
+            <span>Volgend</span>
+          </a></li>
+          <li><a href="#">
+            <img class="nav_icons" src="images/Bladeren.svg"/>
+            <span>Bladeren</span>
+          </a></li>
+          <li><div class="streepje"></div></li>
+          <li><a href="#">
+            <img class="nav_icons" src="images/Esports.svg"/>
+            <span>Esports</span>
+          </a></li>
+          <li><a href="#">
+            <img class="nav_icons" src="images/Muziek.svg"/>
+            <span>Muziek</span>
+          </a></li>
           <li>
             <a href="#"
               ><img class="dropdown" src="images/Three_Dots_Icon.png"
@@ -40,25 +52,17 @@
           aria-label="zoeken"
         />
         <a href="#"><img src="images/Search_Icon.png" type="submit"></img></a>
-	  </form>
-	  
-	  <nav>
-        <ul>
-          <li>
-            <a href="index.html"><img src="images/Twitch_Logo.png" /></a>
-          </li>
-          <li><a href="#">Volgend</a></li>
-          <li><a href="#">Bladeren</a></li>
-          <li><div></div></li>
-          <li><a href="#">Esports</a></li>
-          <li><a href="#">Muziek</a></li>
-          <li>
-            <a href="#"
-              ><img class="dropdown" src="images/Three_Dots_Icon.png"
-            /></a>
-          </li>
-        </ul>
-      </nav>
+    </form>
+      <div class="icon_menu">
+        <a href="#"><img src="images/Kroon.svg"/></a>
+        <a href="#"><img src="images/Bel.svg"/></a>
+        <a href="#"><img src="images/Dm.svg"/></a>
+        <a href="#">
+          <img src="images/Bits.svg"/>
+          <span>Koop bits</span>
+        </a>
+        <a href="#"><img src="images/Profiel.svg"/></a>
+      </div>
     </header>
     <script src="scripts/script.js"></script>
   </body>

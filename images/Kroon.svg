@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-Kroon">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="Kroon" clip-path="url(#clip-Kroon)">
+    <path id="Path_1" data-name="Path 1" d="M0-1.255,7.422,3.413l7.609-7.5,8.218,7.5L30-1.255V14.687H0Z" transform="translate(5 14.59)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>

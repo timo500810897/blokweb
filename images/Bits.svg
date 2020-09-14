@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-Bits">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="Bits" clip-path="url(#clip-Bits)">
+    <g id="Group_2" data-name="Group 2">
+      <g id="Path_3" data-name="Path 3" transform="translate(7 23.95)" fill="none" stroke-linecap="round">
+        <path d="M0,0H26L13,10.964Z" stroke="none"/>
+        <path d="M 8.210556030273438 2.999999046325684 L 13 7.039225101470947 L 17.78944396972656 2.999999046325684 L 8.210556030273438 2.999999046325684 M 0 -9.5367431640625e-07 L 26 -9.5367431640625e-07 L 13 10.96367931365967 L 0 -9.5367431640625e-07 Z" stroke="none" fill="#fff"/>
+      </g>
+      <g id="Polygon_3" data-name="Polygon 3" transform="translate(7 3)" fill="none" stroke-linecap="round">
+        <path d="M13,0,26,21H0Z" stroke="none"/>
+        <path d="M 13 5.699583053588867 L 5.385456085205078 18 L 20.61454391479492 18 L 13 5.699583053588867 M 13 0 L 26 21 L 0 21 L 13 0 Z" stroke="none" fill="#fff"/>
+      </g>
+      <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="9" cy="6" rx="9" ry="6" transform="translate(11 19)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

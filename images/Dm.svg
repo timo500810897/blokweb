@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-Dm">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="Dm" clip-path="url(#clip-Dm)">
+    <path id="Subtraction_4" data-name="Subtraction 4" d="M-83.6,28.309h0l-6.954-7.948H-94.25c-2.068,0-3.75-1.405-3.75-3.132V3.132C-98,1.405-96.318,0-94.25,0h22.5C-69.682,0-68,1.405-68,3.132v14.1c0,1.727-1.682,3.132-3.749,3.132h-4.9L-83.6,28.308ZM-94.25,2.349a.872.872,0,0,0-.938.783v14.1a.872.872,0,0,0,.938.783h5.506l5.3,7.108,5.36-7.108h6.332a.871.871,0,0,0,.937-.783V3.132a.871.871,0,0,0-.937-.783Z" transform="translate(103.149 7.942)" fill="#fff"/>
+  </g>
+</svg>

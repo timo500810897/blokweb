@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-Volgend_hover">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="Volgend_hover" clip-path="url(#clip-Volgend_hover)">
+    <path id="heart-regular" d="M22.684,33.578a7.454,7.454,0,0,0-10.016.742,7.449,7.449,0,0,0-10.016-.742,7.487,7.487,0,0,0-.525,10.946l8.68,8.843a2.6,2.6,0,0,0,3.721,0l8.68-8.843A7.493,7.493,0,0,0,22.684,33.578Zm-1.168,9.278L12.836,51.7a.2.2,0,0,1-.337,0L3.82,42.856A5.1,5.1,0,0,1,4.181,35.4a5.017,5.017,0,0,1,6.755.52l1.732,1.767L14.4,35.918a5.014,5.014,0,0,1,6.755-.525A5.125,5.125,0,0,1,21.516,42.856Z" transform="translate(7 -22.978)" fill="#a970ff"/>
+  </g>
+</svg>
