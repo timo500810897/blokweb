@@ -1,6 +1,8 @@
 # Procesverslag
 **Auteur:** Timo Smit
 
+https://codepen.io/TurksePizza
+
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 
@@ -60,12 +62,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** Responsive
 
-**Je opdracht:** https://www.runescape.com/
+**Je opdracht:** https://www.twitch.tv/
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Runescape-splash.PNG)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Runescape-community.PNG)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Twitch_Home.PNG)
 
 **Breakdown-schets(en):**
 

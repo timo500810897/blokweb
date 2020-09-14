@@ -1,5 +1,150 @@
 /* CSS Document */
-*, *::after, *::before {
-  box-sizing:border-box;  
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
 }
 
+@font-face {
+  font-family: Roobert;
+  src: url("https://static.twitchcdn.net/assets/Roobert-Regular-3fe213a3618624fd7b71.woff2")
+      format("woff2"),
+    url("https://static.twitchcdn.net/assets/Roobert-Regular-014ea096b0f865fa4dd9.woff")
+      format("woff");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Roobert;
+  src: url("https://static.twitchcdn.net/assets/Roobert-SemiBold-df85158a0012c224b021.woff2")
+      format("woff2"),
+    url("https://static.twitchcdn.net/assets/Roobert-SemiBold-48a406bf82c48cfaa849.woff")
+      format("woff");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: Roobert;
+  src: url("https://static.twitchcdn.net/assets/Roobert-Bold-7fda562c82c09fbabec2.woff2")
+      format("woff2"),
+    url("https://static.twitchcdn.net/assets/Roobert-Bold-e1ed2e0bbb575f1a395b.woff")
+      format("woff");
+  font-weight: 700;
+}
+
+header {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+header a img {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+}
+
+header div {
+  border: 0.5px solid hsla(0, 0%, 100%, 0.08);
+  background-color: #18181b;
+  height: 80%;
+  margin-top: -0.2rem;
+}
+
+header nav ul {
+  max-height: 50px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+header nav li {
+  font-size: 14px;
+  text-align: center;
+  background-color: #18181b;
+  font-family: Roobert;
+}
+
+header nav li:nth-of-type(1n + 2) {
+  position: relative;
+  padding-top: 16.5px;
+}
+
+header nav li + li {
+  padding-left: 15px;
+}
+
+header nav a {
+  color: white;
+  text-decoration: none;
+}
+
+header nav a:hover {
+  color: #a970ff;
+}
+
+.dropdown {
+  margin-top: -0.7rem;
+}
+
+.dropdown:hover {
+  background-color: #3a3a3d;
+  border-radius: 8px;
+}
+
+header form {
+  padding: 0.5em;
+  background-color: #18181b;
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
+  max-height: 50px;
+}
+
+input,
+a {
+  font-size: 1em;
+  -webkit-appearance: none;
+  appearance: none;
+  border: none;
+}
+
+header form input {
+  width: 355px;
+  font-size: 14px;
+  min-width: 105px;
+  line-height: 2em;
+  background-color: #3a3a3d;
+  color: white;
+  padding: 0 0.5em;
+  border-radius: 7px 0px 0px 7px;
+  margin-right: 1px;
+}
+
+header form input:focus {
+  border: 2px solid #a970ff;
+  background-color: black;
+}
+
+header form a {
+  background-color: #29292c;
+  border-radius: 0px 7px 7px 0px;
+  cursor: not-allowed;
+}
+
+header form img {
+  width: 70%;
+  height: 70%;
+  max-width: 25px;
+}
+
+body {
+  margin: 0;
+  background-color: #0d0d0e;
+}
+
+/* 
+Paars         #9147ff #a970ff
+Donker grijs  #0e0e10
+Grijs         rgba(24, 24, 27, 0.9)
+*/
