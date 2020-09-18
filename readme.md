@@ -66,8 +66,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![screenshot(s) ](images/Twitch_Home.PNG)
-![screenshot(s) ](images/Twitch_Home_Mobiel.jpg)
+![screenshot(s) website](images/Twitch_Home.PNG)
+![screenshot(s) website](images/Twitch_Home_Mobiel.JPG)
 
 **Breakdown-schets(en):**
 
