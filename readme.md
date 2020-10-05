@@ -28,31 +28,40 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -same as voortgang 1-
 
+**Screenshot(s):**
 
+![screenshot(s) website](images/versie-week-5.png)
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
-
+Mijn readme moet nog extra geupdate worden.
+Het antwoord op mijn vraag was dat ik :not & :end of type moet gebruiken voor de profielfoto.
 
 
 ## Voortgang 1 (week 3)
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Ik vind het lastig de correcte elementen te gebruiken. Vooral aangezien we twee pagina's hebben en je een main op beide pagina's stijlt.
+Ik ben niet erg bekend met elementen aangeven en die specificeren, bijvoorbeeld :nth of type of :not etc.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+![screenshot(s) website](images/versie-week-3-1.png)
+![screenshot(s) website](images/versie-week-3-2.png)
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+We hadden een uur voor de feedback meeting afgesproken met ons groepje om elkaars werk na te kijken.
+De feedback die ik heb gekregen was minimaal en heb ik hieronder samengenomen in de feedback van de meeting.
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Ik ben van website geswitched dus moet ik mijn breakdownschets opnieuw maken.
+Na zelf een vraag gesteld te hebben over de tekst gebruik ik h1,h2 etc. verkeerd.
+Het is handig als ik in mijn screenshots de mobiele versie van de website van Twitch toevoeg.
+Ik heb overbodig div's gebruikt. Ik kan dit vervangen voor ul en li.
+Ik moet nog een goed kijken naar de namen van mijn elementen, ik kan op sommige pleken better strong en article gebruiken.
 
 
 
