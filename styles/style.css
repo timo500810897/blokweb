@@ -9,6 +9,8 @@
     font-family: "Open Sans", sans-serif;
     color: white;
     font-size: 32px;
+    margin-top: 50px;
+    margin-left: 2%;
   }
 
   h2 {
@@ -21,6 +23,7 @@
     font-family: "Open Sans", sans-serif;
     color: rgb(165, 165, 165);
     font-size: 10px;
+    margin-left: 2%;
   }
 
   h4 {

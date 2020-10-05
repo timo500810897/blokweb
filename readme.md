@@ -30,10 +30,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 
+**Screenshot(s):**
+
+![screenshot(s) website](images/versie-week-5.png)
+
 ## Voortgang 2 (week 5)
 
-read me updaten
-sudo not : end of type not de laatste img die in a zit
+Mijn readme was nog niet helemaal up to date dus dat moet ik bijwerken.
+Het antwoord op mijn gestelde vraag over de profiel foto is dat ik :not en :end of type moet gebruiken in het icon menu.
 
 
 
@@ -46,7 +50,8 @@ Ik ben niet erg bekend met elementen aangeven en die specificeren, bijvoorbeeld 
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+![screenshot(s) website](images/versie-week-3-1.png)
+![screenshot(s) website](images/versie-week-3-2.png)
 
 ### Agenda voor meeting
 
@@ -73,8 +78,8 @@ Ik moet nog een goed kijken naar de namen van mijn elementen, ik kan op sommige 
 
 **Screenshot(s):**
 
-![screenshot(s) website](images/Twitch_Home.PNG)
-![screenshot(s) website](images/Twitch_Home_Mobiel.JPG)
+![screenshot(s) website](images/Twitch_Home.png)
+![screenshot(s) website](images/Twitch_Home_Mobiel.png)
 
 **Breakdown-schets(en):**
 
