@@ -28,14 +28,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -same as voortgang 1-
 
-**Screenshot(s):**
 
-![screenshot(s) website](images/versie-week-5.png)
 
 ## Voortgang 2 (week 5)
 
-Mijn readme moet nog extra geupdate worden.
-Het antwoord op mijn vraag was dat ik :not & :end of type moet gebruiken voor de profielfoto.
+read me updaten
+sudo not : end of type not de laatste img die in a zit
+
 
 
 ## Voortgang 1 (week 3)
@@ -47,8 +46,7 @@ Ik ben niet erg bekend met elementen aangeven en die specificeren, bijvoorbeeld 
 
 **Screenshot(s):**
 
-![screenshot(s) website](images/versie-week-3-1.png)
-![screenshot(s) website](images/versie-week-3-2.png)
+-screenshot(s) van hoe ver je bent-
 
 ### Agenda voor meeting
 
@@ -80,5 +78,4 @@ Ik moet nog een goed kijken naar de namen van mijn elementen, ik kan op sommige 
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Runescape-splash-frame.png)
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Runescape-community-frame.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Breakdown_Twitch.png)
