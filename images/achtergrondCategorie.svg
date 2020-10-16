@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="171" height="228" viewBox="0 0 171 228">
+  <defs>
+    <clipPath id="clip-achtergrondCategorie">
+      <rect width="171" height="228"/>
+    </clipPath>
+  </defs>
+  <g id="achtergrondCategorie" clip-path="url(#clip-achtergrondCategorie)">
+    <path id="Subtraction_5" data-name="Subtraction 5" d="M-140.9,226.1h-158V15.528l8.428-8.428H-134.9v209l-6,10h0Z" transform="translate(298.9 1.9)" fill="#a970ff"/>
+  </g>
+</svg>

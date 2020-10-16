@@ -15,28 +15,40 @@
       <nav>
         <ul>
           <li>
-            <a href="index.html"><img src="images/Twitch_Logo.png" /></a>
+            <a href="index.html"><img src="images/Twitch_Logo.png" alt="Logo"/></a>
           </li>
           <li><a href="#">
-            <img class="nav_icons" src="images/Volgend.svg"/>
+              <img class="nav_icons" src="images/Volgend.svg" alt="Volgend"
+              onmouseover="this.src='images/Volgend_hover.svg'" 
+              onmouseout="this.src='images/Volgend.svg'"
+              border="0" alt=""/>
             <span>Volgend</span>
           </a></li>
           <li><a href="bladeren.html">
-            <img class="nav_icons" src="images/Bladeren.svg"/>
+            <img class="nav_icons" src="images/Bladeren.svg" alt="Bladeren"
+            onmouseover="this.src='images/Bladeren_hover.svg'" 
+            onmouseout="this.src='images/Bladeren.svg'" 
+            border="0" alt=""/>
             <span>Bladeren</span>
           </a></li>
           <li><div class="streepje"></div></li>
           <li><a href="#">
-            <img class="nav_icons" src="images/Esports.svg"/>
+            <img class="nav_icons" src="images/Esports.svg" alt="Esports"
+            onmouseover="this.src='images/Esports_hover.svg'" 
+            onmouseout="this.src='images/Esports.svg'" 
+            border="0" alt=""/>
             <span>Esports</span>
           </a></li>
           <li><a href="#">
-            <img class="nav_icons" src="images/Muziek.svg"/>
+            <img class="nav_icons" src="images/Muziek.svg" alt="Muziek"
+            onmouseover="this.src='images/Muziek_hover.svg'" 
+            onmouseout="this.src='images/Muziek.svg'" 
+            border="0" alt=""/>   
             <span>Muziek</span>
           </a></li>
           <li>
             <a href="#"
-              ><img class="dropdown" src="images/Three_Dots_Icon.svg"
+              ><img class="dropdown" src="images/Three_Dots_Icon.svg" alt="Dropdown"
             /></a>
           </li>
         </ul>
@@ -51,7 +63,7 @@
           autocomplete="off"
           aria-label="zoeken"
         />
-        <a href="#"><img src="images/Search_Icon.png" type="submit"></img></a>
+        <a href="#" onclick="toggleSearch()"><img src="images/Search_Icon.png" type="submit" ></img></a>
     </form>
       <div class="icon_menu">
         <a href="#"><img src="images/Kroon.svg"/></a>
@@ -63,193 +75,294 @@
         </a>
         <a href="#"><img src="images/Profiel.svg"/></a>
       </div>
-    </header>
 
-    <nav role="sub">
-      <ul>
+    <nav role="phone_dropdown">
+      <a href="#" onclick="toggleDropdown()"
+        ><img class="dropdown" src="images/Three_Dots_Icon.svg"
+      /></a>
+      <ul id="toggleDropdown">          
         <li>
-          <img src="images/Profiel.svg">
+          <a href="#">Privacybeleid</a>
         </li>
         <li>
-          <img src="images/Profiel.svg">
+          <a href="#">Cookiebeleid</a>
         </li>
         <li>
-          <img src="images/Profiel.svg">
+          <a href="#">Servicevoorwaarden</a>
         </li>
+        <li><hr></li>
         <li>
-          <img src="images/Profiel.svg">
-        </li>
-        <li>
-          <img src="images/Profiel.svg">
+          <a href="#">Licht thema inschakelen</a>
         </li>
       </ul>
     </nav>
 
-    <h1>Welkom bij Twitch!</h1>
-    <h3>LIVE KANALEN WAARVAN WE DENKEN DAT JE DIE LEUK ZULT VINDEN</h3>
+
+    </header>
+    
+<div id="achtergrond">
+      <img src="images/Stream2.jpg" alt="Stream">
+      <img src="images/Stream3.jpg" alt="Stream">
+    </div>
+
+    <main>
+      <button><</button>
+      <img src="images/Stream.gif" alt="Stream">
+      <button>></button> 
+    </main>
+    
+    <nav role="sub">
+      <ul>
+        <strong>Gevolgde kanalen</strong>
+        <li>
+          <img src="images/Streamer1.png" alt="Profiel">
+          <p>VoyBoy</p>
+          <div></div>
+          <p>19.109</p>
+          <p>League of Legends</p>
+        </li>
+
+        <li>
+          <img src="images/Streamer2.png" alt="Profiel">
+          <p>Sweet Anita</p>
+          <div></div>
+          <p>16.122</p>
+          <p>IRL</p>
+        </li>
+
+        <li>
+          <img src="images/Streamer3.png" alt="Profiel">
+          <p>Sacriel</p>
+          <div></div>
+          <p>12.099</p>
+          <p>Escape From Tarkov</p>
+        </li>
+
+        <li>
+          <img src="images/Streamer4.jpeg" alt="Profiel">
+          <p>Sick_Nerd</p>
+          <div></div>
+          <p>9.424</p>
+          <p>Old School RuneScape</p>
+        </li>
+
+        <li>
+          <img src="images/Streamer5.jpeg" alt="Profiel">
+          <p>Midnan</p>
+          <div></div>
+          <p>6.787</p>
+          <p>Minecraft</p>
+        </li>
+
+        <li>
+          <img src="images/Streamer6.png" alt="Profiel">
+          <p>Dakotaz</p>
+          <div></div>
+          <p>5.419</p>
+          <p>Fortnite</p>
+        </li>
+
+        <li>
+          <img src="images/Streamer7.png" alt="Profiel">
+          <p>WillerZ</p>
+          <div></div>
+          <p>4.414</p>
+          <p>Escape From Tarkov</p>
+        </li>
+
+        <li>
+          <img src="images/Streamer8.jpeg" alt="Profiel">
+          <p>imaqtpie</p>
+          <div></div>
+          <p>4.323</p>
+          <p>League of Legends</p>
+        </li>
+        <a href="#">Meer weergeven</a>
+      </ul>
+    </nav>
+
+    <h1 id="titel">Welkom bij Twitch!</h1>
+    <strong>Live kanalen waarvan we denken dat je die leuk zult vinden</strong>
 
     <div class="container">
     <ul class="video">
       <li>
-        <button>←</button>
-        <button>→</button> 
-        <img src="images/Video2.PNG">
-        <h2>Titel Livestream</h2>
-        <h4>Naam streamer</h4>
-        <p>Game</p>
-        <h5>Taal</h5>
-      </li>
-      <li>
-        <button>←</button>
-        <button>→</button> 
-        <img src="images/Video3.PNG">
-        <h2>Titel Livestream</h2>
-        <h4>Naam streamer</h4>
-        <p>Game</p>
-        <h5>Taal</h5>
-      </li>
-      <li>
-        <button>←</button>
-        <button>→</button> 
         <img src="images/Video1.PNG">
-        <h2>Titel Livestream</h2>
-        <h4>Naam streamer</h4>
+        <img src="images/Streamer2.png">
+        <p>Titel Livestream</p>
+        <p>Naam streamer</p>
         <p>Game</p>
-        <h5>Taal</h5>
+        <p>Engels</p>
+        <p>Multiplayer</p>
+      </li>
+      <li>
+        <img src="images/Video2.PNG">
+        <img src="images/Streamer1.png">
+        <p>Titel Livestream</p>
+        <p>Naam streamer</p>
+        <p>Game</p>
+        <p>Taal</p>
+      </li>
+      <li>
+        <img src="images/Video3.PNG">
+        <img src="images/Streamer3.png">
+        <p>Titel Livestream</p>
+        <p>Naam streamer</p>
+        <p>Game</p>
+        <p>Taal</p>
+      </li>
+      <li>
+        <img src="images/Video4.PNG">
+        <img src="images/Streamer3.png">
+        <p>Titel Livestream</p>
+        <p>Naam streamer</p>
+        <p>Game</p>
+        <p>Taal</p>
+      </li>
+      <li>
+        <img src="images/Video5.PNG">
+        <img src="images/Streamer3.png">
+        <p>Titel Livestream</p>
+        <p>Naam streamer</p>
+        <p>Game</p>
+        <p>Taal</p>
       </li>
     </ul>
     </div>
 
-    <h3>CATEGORIEËN WAARVAN WE DENKEN DAT JE DIE LEUK ZULT VINDEN</h3>
+    <strong><mark>Categorieën</mark> waarvan we denken dat je die leuk zult vinden</strong>
 
     <div class="container">
     <ul class="categorie">
       <li>
       <img src="images/Categorieën/Just Chatting.jpg">
-      <h2>Game</h2>
-      <h4>66,6K kijkers</h4>
       <p>Game</p>
-      <h5>Tag</h5>
+      <p>66,6K kijkers</p>
+      <p>IRL</p>
     </li>
 
     <li>
       <img src="images/Categorieën/League of Legends.jpg">
-      <h2>Game</h2>
-      <h4>66,6K kijkers</h4>
       <p>Game</p>
-      <h5>Tag</h5>
+      <p>66,6K kijkers</p>
+      <p>MOBO</p>
+      <p>Actie</p>
     </li>
 
     <li>
       <img src="images/Categorieën/Counter-Strike Global Offensive.jpg">
-      <h2>Game</h2>
-      <h4>66,6K kijkers</h4>
       <p>Game</p>
-      <h5>Tag</h5>
+      <p>66,6K kijkers</p>
+      <p>Tag</p>
     </li>
 
     <li>
       <img src="images/Categorieën/Fortnite.jpg">
-      <h2>Game</h2>
-      <h4>66,6K kijkers</h4>
       <p>Game</p>
-      <h5>Tag</h5>
+      <p>66,6K kijkers</p>
+      <p>Tag</p>
     </li>
     <li>
       <img src="images/Categorieën/Call of Duty Modern Warfare.jpg">
-      <h2>Game</h2>
-      <h4>66,6K kijkers</h4>
       <p>Game</p>
-      <h5>Tag</h5>
+      <p>66,6K kijkers</p>
+      <p>Tag</p>
     </li>
 
     <li>
       <img src="images/Categorieën/Teamfight Tactics.jpg">
-      <h2>Game</h2>
-      <h4>66,6K kijkers</h4>
       <p>Game</p>
-      <h5>Tag</h5>
+      <p>66,6K kijkers</p>
+      <p>Tag</p>
     </li>
 
     <li>
       <img src="images/Categorieën/Valorant.jpg">
-      <h2>Game</h2>
-      <h4>66,6K kijkers</h4>
       <p>Game</p>
-      <h5>Tag</h5>
+      <p>66,6K kijkers</p>
+      <p>Tag</p>
     </li>
 
     <li>
       <img src="images/Categorieën/Hearthstone.png">
-      <h2>Game</h2>
-      <h4>66,6K kijkers</h4>
       <p>Game</p>
-      <h5>Tag</h5>
+      <p>66,6K kijkers</p>
+      <p>Tag</p>
     </li>
     <li>
       <img src="images/Categorieën/Dota 2.jpg">
-      <h2>Game</h2>
-      <h4>66,6K kijkers</h4>
       <p>Game</p>
-      <h5>Tag</h5>
+      <p>66,6K kijkers</p>
+      <p>Tag</p>
     </li>
 
     <li>
       <img src="images/Categorieën/Grand Theft Auto V.jpg">
-      <h2>Game</h2>
-      <h4>66,6K kijkers</h4>
       <p>Game</p>
-      <h5>Tag</h5>
+      <p>66,6K kijkers</p>
+      <p>Tag</p>
     </li>
 
     <li>
       <img src="images/Categorieën/Among Us.jpg">
-      <h2>Game</h2>
-      <h4>66,6K kijkers</h4>
       <p>Game</p>
-      <h5>Tag</h5>
+      <p>66,6K kijkers</p>
+      <p>Tag</p>
     </li>
 
     <li>
       <img src="images/Categorieën/World of Warcraft.jpg">
-      <h2>Game</h2>
-      <h4>66,6K kijkers</h4>
       <p>Game</p>
-      <h5>Tag</h5>
+      <p>66,6K kijkers</p>
+      <p>Tag</p>
     </li>
   </ul>
     </div>
 
-    <h3>LIVE KANALEN WAARVAN WE DENKEN DAT JE DIE LEUK ZULT VINDEN</h3>
+    <strong>Aanbevolen <mark>Among Us</mark>-Kanalen</strong>
 
     <div class="container">
     <ul class="video">
       <li>
-        <button>←</button>
-        <button>→</button> 
-        <img src="images/Video2.PNG">
-        <h2>Titel Livestream</h2>
-        <h4>Naam streamer</h4>
+        <img src="images/Video5.PNG">
+        <img src="images/Streamer4.jpeg">
+        <p>Titel Livestream</p>
+        <p>Naam streamer</p>
         <p>Game</p>
-        <h5>Taal</h5>
+        <p>Engels</p>
+        <p>Multiplayer</p>
       </li>
       <li>
-        <button>←</button>
-        <button>→</button> 
+        <img src="images/Video4.PNG">
+        <img src="images/Streamer5.jpeg">
+        <p>Titel Livestream</p>
+        <p>Naam streamer</p>
+        <p>Game</p>
+        <p>Taal</p>
+      </li>
+      <li>
         <img src="images/Video3.PNG">
-        <h2>Titel Livestream</h2>
-        <h4>Naam streamer</h4>
+        <img src="images/Streamer6.png">
+        <p>Titel Livestream</p>
+        <p>Naam streamer</p>
         <p>Game</p>
-        <h5>Taal</h5>
+        <p>Taal</p>
       </li>
       <li>
-        <button>←</button>
-        <button>→</button> 
-        <img src="images/Video1.PNG">
-        <h2>Titel Livestream</h2>
-        <h4>Naam streamer</h4>
+        <img src="images/Video2.PNG">
+        <img src="images/Streamer6.png">
+        <p>Titel Livestream</p>
+        <p>Naam streamer</p>
         <p>Game</p>
-        <h5>Taal</h5>
+        <p>Taal</p>
+      </li>
+      <li>
+        <img src="images/Video1.PNG">
+        <img src="images/Streamer6.png">
+        <p>Titel Livestream</p>
+        <p>Naam streamer</p>
+        <p>Game</p>
+        <p>Taal</p>
       </li>
     </ul>
     </div>
