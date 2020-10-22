@@ -1,16 +1,12 @@
 # Procesverslag
 **Auteur:** Timo Smit
 
-https://codepen.io/TurksePizza
-
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
-
-
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://www.twitch.tv/
+2. https://stackoverflow.com/
+3. https://css-tricks.com/almanac/
 
 
 
@@ -22,22 +18,30 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -screenshot(s) van je eindresultaat-
 
+![screenshot(s) website](images/versie-week-7.1.png)
+![screenshot(s) website](images/versie-week-7.2.png)
+![screenshot(s) website](images/versie-week-7.3.png)
 
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
-
-
+Ik heb grid gebruikt in plaats van flex op sommige plekken. Dit vond ik fijner te gebruiken. Het paste beter bij wat ik wilde hoe het eruit moest zien.
+Ik ben nu ook begonnen aan het maken van de responsive versie voor iPad en Web.
 
 **Screenshot(s):**
 
-![screenshot(s) website](images/versie-week-5.png)
+![screenshot(s) website](images/versie-week-6.1.png)
+![screenshot(s) website](images/versie-week-6.2.png)
+
 
 ## Voortgang 2 (week 5)
 
 Mijn readme was nog niet helemaal up to date dus dat moet ik bijwerken.
 Het antwoord op mijn gestelde vraag over de profiel foto is dat ik :not en :end of type moet gebruiken in het icon menu.
+
+**Screenshot(s):**
+
+![screenshot(s) website](images/versie-week-5.png)
 
 
 
