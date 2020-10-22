@@ -12,15 +12,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+-dit ging goed en dit was lastig-
 
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
 
-![screenshot(s) website](images/versie-week-7.1.png)
-![screenshot(s) website](images/versie-week-7.2.png)
-![screenshot(s) website](images/versie-week-7.3.png)
+![screenshot(s) website](images/versie-week-7.1.PNG)
+![screenshot(s) website](images/versie-week-7.2.PNG)
+![screenshot(s) website](images/versie-week-7.3.PNG)
 
 
 ## Voortgang 3 (week 6)
@@ -30,8 +30,8 @@ Ik ben nu ook begonnen aan het maken van de responsive versie voor iPad en Web.
 
 **Screenshot(s):**
 
-![screenshot(s) website](images/versie-week-6.1.png)
-![screenshot(s) website](images/versie-week-6.2.png)
+![screenshot(s) website](images/versie-week-6.1.PNG)
+![screenshot(s) website](images/versie-week-6.2.PNG)
 
 
 ## Voortgang 2 (week 5)
